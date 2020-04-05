@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+}
+
+.cover{
+	background-image: url(cover.png);
+	background-size: cover;
+	width:100%;
+	height: 100vh;
+}
+
+h1{
+	margin: 0;
+	display: inline-block;
+	position: relative;
+	left: 30%;
+	top: 30%;
+	color: powderblue;
+	font-size: 60px;
+
+}
+
+.logo{
+	position: absolute;
+	left: 50%;
+	bottom: 48%;
+}
+
+.log{
+	position: absolute;
+	left:45%;
+	bottom: 48%;
+}
+
+.lo{
+	position: absolute;
+	left: 40%;
+	bottom: 48%;
+}
